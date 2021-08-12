@@ -1,2 +1,2 @@
 This folder contains the collated data and R file for fitting functional responses to the male feeding survey data. The .Stan files are called by 
-the R file and .RData file is the output that is used to get model-averaged predictions
+the R file and .RData file is the output with the MCMC samples to get model-averaged predictions
