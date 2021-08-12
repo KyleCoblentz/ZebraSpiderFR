@@ -2,3 +2,16 @@ This folder contains the raw data and code that:
 1) Performs the detection/handling time analysis
 2) Estimates the average detection times for each feeding survey for each sex/stage
 3) Collates all of the data into single .csv files for females, males, and juveniles for the functional response analysis
+
+Explanation of Code:
+
+DetectionTimeAnalysis.R -- This script performs the detection/handling time analysis and requires
+  DetectionTimeData.csv
+
+PreyAbundanceCorrections_DetectionTimes.R -- This script provides abundance corrections for midges across size classes for 
+  abundances pre-standardization and calculates the mean detection time for each survey-sex/stage combination using the 
+  detection time analysis from DetectionTimeAnalysis.R. The output of this script are the .csv files 'DetectionAvgAcrossInd_x.csv'
+  
+FeedingDataManipulation.R -- This script combines all of the necessary data from 'DetectionAvgAcrossInd_x.csv's, 
+  'IndSpiderSurveys.csv', 'PreyAbundance.csv', 'SurveyInfo.csv', and 'WallInfo.csv' to output the files 'FeedingData_Manipulated_x.csv'
+  which contains all of the information needed to fit the functional response models in single .csv files
