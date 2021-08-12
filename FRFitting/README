@@ -1,4 +1,2 @@
-This folder contains four folders. Three of these folders include the code and collated data used to fit the functional responses for females,
-males, and juveniles (folders titled 'Females', 'Males', and 'Juveniles'). The fourth folder 'ModelAveraging' contains the code that 
-performs the Bayesian model averaging for the model-averaged predictions in the manuscript using output from the code to fit the 
-functional responses.
+This folder contains three folders. These folders include the code and collated data used to fit the functional responses for females,
+males, and juveniles (folders titled 'Females', 'Males', and 'Juveniles'). 
