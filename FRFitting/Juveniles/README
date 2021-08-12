@@ -1,0 +1,2 @@
+This folder contains the collated data, an R file to fit the functional response models, and .Stan files defining the models.
+The .R file outputs a .RData file that is used to get the model-averaged predictions.
