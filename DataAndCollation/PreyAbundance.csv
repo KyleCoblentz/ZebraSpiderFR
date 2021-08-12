@@ -1,0 +1,482 @@
+Date,SurveyCode,PreySize,PreyColor,PreyStripes,Number
+5.29,5.29BHWAM,Medium,Gray,Stripe,1
+5.31,5.31LUNEAM,Small,Gray,Stripe,28
+5.31,5.31LUNEAM,Medium,Gray,Stripe,13
+5.31,5.31LUNEAM,Medium,Gray,No stripe,1
+5.31,5.31LUNWAM,Small,Gray,Stripe,21
+5.31,5.31LUNWAM,Medium,Gray,Stripe,12
+5.31,5.31LUNWAM,Small,Black,Stripe,2
+5.31,5.31LUWAM,Small,Gray,Stripe,9
+5.31,5.31LUWAM,Medium,Gray,Stripe,10
+5.31,5.31LUWAM,Large,Gray,Stripe,3
+5.31,5.31TBNAM,Small,Gray,Stripe,1
+5.31,5.31TBNAM,Medium,Gray,Stripe,6
+5.31,5.31TBNAM,Large,Gray,Stripe,1
+5.31,5.31TBNAM,Small,Black,No stripe,1
+5.31,5.31GFNAM,Small,Gray,Stripe,11
+5.31,5.31GFNAM,Medium,Gray,Stripe,4
+5.31,5.31GFNAM,Large,Gray,Stripe,2
+5.31,5.31GFNAM,Small,Gray,No stripe,2
+5.31,5.31SBNAM,Small,Gray,Stripe,7
+5.31,5.31SBNAM,Small,Gray,No stripe,1
+5.31,5.31SBNAM,Medium,Gray,Stripe,5
+5.31,5.31SBNAM,Large,Gray,Stripe,1
+5.31,5.31SBNAM,Small,Black,Stripe,1
+5.31,5.31GFSAM,Small,Gray,Stripe,2
+5.31,5.31GFSAM,Small,Gray,No stripe,2
+5.31,5.31GFSAM,Small,Black,Stripe,1
+5.31,5.31GFSAM,Small,Black,No stripe,1
+5.31,5.31SBWAM,Small,Gray,Stripe,10
+5.31,5.31SBWAM,Small,Gray,No stripe,3
+5.31,5.31SBWAM,Medium,Gray,Stripe,8
+5.31,5.31SBWAM,Small,Black,Stripe,8
+5.31,5.31SBWAM,Small,Black,No stripe,1
+5.31,5.31SBWAM,Medium,Black,Stripe,1
+5.31,5.31DHNWAM,Small,Gray,Stripe,7
+5.31,5.31DHNWAM,Small,Gray,No stripe,1
+5.31,5.31DHNWAM,Medium,Gray,Stripe,8
+5.31,5.31DHNWAM,Small,Black,Stripe,5
+5.31,5.31DHNWAM,Small,Black,No stripe,2
+5.31,5.31DHNWAM,Medium,Black,Stripe,4
+5.3,5.30PPNPM,Small,Gray,Stripe,2
+5.3,5.30PPNPM,Large,Gray,Stripe,1
+5.3,5.30GFSPM,Small,Gray,Stripe,3
+5.3,5.30GFSPM,Small,Black,No stripe,1
+5.3,5.30TBNPM,Small,Gray,Stripe,5
+5.3,5.30TBNPM,Small,Gray,No stripe,1
+5.3,5.30TBNPM,Medium,Gray,Stripe,2
+5.3,5.30SBWAM,Small,Gray,Stripe,3
+5.3,5.30SBWAM,Medium,Gray,Stripe,1
+5.3,5.30SBWAM,Large,Gray,Stripe,1
+5.3,5.30SBWAM,Small,Black,Stripe,1
+5.3,5.30SBNAM,Small,Gray,Stripe,1
+5.3,5.30SBNAM,Medium,Gray,Stripe,3
+5.3,5.30SBNAM,Large,Gray,Stripe,1
+5.3,5.30DHNWAM,Small,Gray,Stripe,8
+5.3,5.30DHNWAM,Medium,Gray,Stripe,7
+5.3,5.30DHNWAM,Large,Gray,Stripe,3
+5.3,5.30DHNWAM,Small,Black,Stripe,3
+5.29,5.29MINPM,Small,Green,Stripe,1
+5.29,5.29MINPM,Small,Gray,Stripe,18
+5.29,5.29MINPM,Small,Gray,No stripe,2
+5.29,5.29MINPM,Medium,Gray,Stripe,2
+5.29,5.29MINPM,Large,Gray,Stripe,1
+5.29,5.29MINPM,Small,Black,Stripe,4
+5.29,5.29MINPM,Small,Black,No stripe,2
+5.29,5.29PPNPM,Small,Gray,Stripe,1
+5.29,5.29PPNPM,Large,Gray,Stripe,1
+5.29,5.29PPNPM,Small,Black,No stripe,1
+5.29,5.29GFNAM,Small,Gray,Stripe,3
+5.29,5.29GFNAM,Medium,Gray,Stripe,4
+5.29,5.29GFNAM,Small,Black,No stripe,1
+5.29,5.29DHNWAM,Small,Gray,Stripe,30
+5.29,5.29DHNWAM,Small,Black,Stripe,3
+5.29,5.29DHNWAM,Medium,Gray,Stripe,2
+5.29,5.29DHNWAM,Medium,Black,Stripe,1
+5.3,5.30PPNAM,Small,Gray,Stripe,1
+5.3,5.30PPNAM,Medium,Gray,Stripe,1
+5.3,5.30PPNAM,Large,Gray,Stripe,1
+5.3,5.30PPNAM,Small,Black,No stripe,1
+5.3,5.30SBNPM,Small,Gray,Stripe,10
+5.3,5.30SBNPM,Medium,Gray,Stripe,1
+5.3,5.30SBNPM,Large,Gray,Stripe,1
+5.3,5.30SBEPM,Small,Gray,Stripe,4
+5.3,5.30GFNAM,Small,Gray,Stripe,2
+5.3,5.30GFNAM,Medium,Gray,Stripe,2
+5.3,5.30GFNAM,Large,Gray,Stripe,2
+5.3,5.30MINAM,Small,Gray,No stripe,1
+5.3,5.30MINAM,Medium,Gray,Stripe,2
+5.3,5.30MINAM,Small,Black,No stripe,5
+5.3,5.30LUSWAM,Small,Gray,Stripe,2
+5.3,5.30LUSWAM,Medium,Gray,Stripe,1
+5.3,5.30LUNWAM,Small,Gray,Stripe,6
+5.3,5.30LUNWAM,Small,Gray,No stripe,2
+5.3,5.30LUNWAM,Medium,Gray,Stripe,17
+5.3,5.30LUNWAM,Small,Black,No stripe,1
+5.3,5.30LUNEAM,Small,Gray,Stripe,2
+5.3,5.30LUNEAM,Small,Gray,No stripe,2
+5.3,5.30LUNEAM,Medium,Gray,Stripe,6
+5.3,5.30LUNEAM,Large,Gray,Stripe,1
+5.3,5.30LUNEAM,Small,Black,Stripe,1
+5.3,5.30GFSAM,Small,Gray,Stripe,3
+6.1,6.1GLNAM,Small,Gray,Stripe,5
+6.1,6.1GLNAM,Medium,Gray,Stripe,4
+6.1,6.1GLNAM,Large,Gray,Stripe,5
+6.1,6.1SBWAM,Small,Gray,Stripe,19
+6.1,6.1SBWAM,Small,Gray,No stripe,7
+6.1,6.1SBWAM,Medium,Gray,Stripe,5
+6.1,6.1SBWAM,Large,Gray,Stripe,1
+6.1,6.1SBWAM,Small,Black,Stripe,1
+6.1,6.1SBWAM,Small,Black,No stripe,1
+6.1,6.1SBNAM,Small,Gray,Stripe,5
+6.1,6.1SBNAM,Medium,Gray,Stripe,3
+6.1,6.1SBNAM,Large,Gray,Stripe,1
+6.1,6.1SBNAM,Medium,Black,Stripe,2
+6.1,6.1DHNWAM,Small,Gray,Stripe,33
+6.1,6.1DHNWAM,Small,Gray,No stripe,2
+6.1,6.1DHNWAM,Medium,Gray,Stripe,24
+6.1,6.1DHNWAM,Large,Gray,Stripe,4
+6.1,6.1DHNWAM,Small,Black,Stripe,11
+6.1,6.1DHNWAM,Small,Black,No stripe,2
+6.1,6.1DHNWAM,Medium,Black,Stripe,7
+6.1,6.1LUEAM,Small,Gray,Stripe,6
+6.1,6.1LUEAM,Small,Gray,No stripe,1
+6.1,6.1LUEAM,Medium,Gray,Stripe,4
+6.1,6.1LUSEAM,Small,Gray,Stripe,7
+6.1,6.1LUSEAM,Medium,Gray,Stripe,2
+6.1,6.1LUWAM,Small,Gray,Stripe,10
+6.1,6.1LUWAM,Medium,Gray,Stripe,11
+6.1,6.1LUWAM,Large,Gray,Stripe,3
+6.1,6.1LUWAM,Small,Black,No stripe,2
+6.1,6.1LUNWAM,Small,Gray,Stripe,5
+6.1,6.1LUNWAM,Small,Gray,No stripe,1
+6.1,6.1LUNWAM,Medium,Gray,Stripe,6
+6.1,6.1LUNWAM,Medium,Gray,No stripe,1
+6.1,6.1LUNWAM,Large,Gray,Stripe,1
+6.1,6.1LUSWAM,Small,Gray,Stripe,13
+6.1,6.1LUSWAM,Small,Gray,No stripe,1
+6.1,6.1LUSWAM,Medium,Gray,Stripe,7
+6.1,6.1LUSWAM,Small,Black,Stripe,5
+6.1,6.1LUSWAM,Small,Black,No stripe,1
+6.1,6.1LUSWAM,Medium,Black,Stripe,1
+6.1,6.1TBNAM,Small,Gray,Stripe,5
+6.1,6.1TBNAM,Small,Gray,No stripe,1
+6.1,6.1TBNAM,Medium,Gray,Stripe,7
+6.1,6.1TBNAM,Small,Black,No stripe,1
+6.1,6.1GFNAM,Small,Gray,No stripe,3
+6.1,6.1GFNAM,Large,Gray,Stripe,1
+6.1,6.1GFNAM,Small,Black,Stripe,2
+6.1,6.1GFNAM,Small,Black,No stripe,3
+6.2,6.2GLNAMa,Small,Gray,Stripe,3
+6.2,6.2GFSAM,Small,Gray,No stripe,1
+6.2,6.2GFNAMa,Medium,Gray,Stripe,2
+6.1,6.1LUNEAM,Small,Gray,Stripe,17
+6.1,6.1LUNEAM,Medium,Gray,Stripe,11
+6.1,6.1LUNEAM,Small,Black,Stripe,2
+6.1,6.1LUNEAM,Small,Black,No stripe,1
+6.2,6.2TBNAM,Small,Gray,Stripe,1
+6.2,6.2TBNAM,Large,Gray,Stripe,3
+6.2,6.2TBNAM,Small,Black,Stripe,2
+6.2,6.2GFNAMb,Small,Gray,No stripe,1
+6.2,6.2GLNAMb,Small,Gray,Stripe,1
+6.2,6.2GLNAMb,Medium,Gray,Stripe,2
+6.2,6.2LUNWAM,Small,Gray,Stripe,3
+6.2,6.2LUNWAM,Medium,Gray,Stripe,1
+6.2,6.2LUNWAM,Small,Black,No stripe,1
+6.2,6.2LUSWAM,Small,Gray,Stripe,3
+6.2,6.2LUSWAM,Large,Gray,Stripe,1
+6.2,6.2LUSWAM,Small,Black,Stripe,1
+6.2,6.2LUNEAM,Small,Gray,Stripe,2
+6.2,6.2LUNEAM,Small,Gray,No stripe,1
+6.2,6.2LUNEAM,Medium,Gray,Stripe,6
+6.2,6.2LUNEAM,Small,Black,No stripe,1
+6.2,6.2LUNEAM,Large,Gray,Stripe,1
+6.2,6.2SBWAM,Small,Gray,Stripe,4
+6.2,6.2SBWAM,Medium,Gray,Stripe,1
+6.2,6.2SBWAM,Large,Gray,Stripe,1
+6.2,6.2SBWAM,Small,Black,Stripe,1
+6.2,6.2SBWAM,Small,Black,No stripe,1
+6.2,6.2SBWAM,Medium,Black,Stripe,1
+6.2,6.2LUEAM,Small,Gray,Stripe,1
+6.2,6.2LUSEAM,Small,Gray,Stripe,3
+6.2,6.2LUSEAM,Medium,Gray,Stripe,1
+6.3,6.3GLNAM,Small,Gray,Stripe,2
+6.3,6.3GLNAM,Small,Gray,No stripe,3
+6.3,6.3GFNAM,Small,Gray,Stripe,2
+6.3,6.3GFNAM,Small,Gray,No stripe,1
+6.3,6.3GFNAM,Large,Gray,Stripe,1
+6.3,6.3GLNPM,Small,Gray,Stripe,4
+6.3,6.3GLNPM,Medium,Gray,Stripe,4
+6.3,6.3GLNPM,Large,Gray,Stripe,2
+6.3,6.3LUSWAM,Small,Gray,Stripe,4
+6.3,6.3LUSWAM,Medium,Gray,Stripe,7
+6.3,6.3LUSWAM,Large,Gray,Stripe,1
+6.3,6.3GFSAM,Small,Gray,Stripe,4
+6.3,6.3GFSAM,Small,Black,Stripe,2
+6.3,6.3LUSEAM,Small,Gray,Stripe,4
+6.3,6.3LUSEAM,Small,Black,Stripe,1
+6.3,6.3LUSEAM,Medium,Gray,Stripe,1
+6.3,6.3GFNPM,Small,Gray,Stripe,2
+6.3,6.3GFNPM,Medium,Gray,Stripe,1
+6.3,6.3TBNPM,Small,Gray,Stripe,6
+6.3,6.3TBNPM,Medium,Gray,Stripe,8
+6.3,6.3TBNAM,Small,Gray,Stripe,2
+6.3,6.3TBNAM,Small,Gray,No stripe,2
+6.3,6.3TBNAM,Medium,Gray,Stripe,3
+6.3,6.3TBNAM,Large,Gray,Stripe,1
+6.3,6.3LUEAM,Small,Gray,Stripe,4
+6.3,6.3LUEAM,Medium,Gray,Stripe,2
+6.3,6.3LUEAM,Large,Gray,Stripe,1
+6.3,6.3LUNWAM,Small,Gray,Stripe,16
+6.3,6.3LUNWAM,Medium,Gray,Stripe,4
+6.3,6.3LUNWAM,Small,Black,Stripe,2
+6.3,6.3LUNWAM,Small,Black,No stripe,1
+6.3,6.3DHNWAM,Small,Gray,Stripe,47
+6.3,6.3DHNWAM,Small,Green,Stripe,1
+6.3,6.3DHNWAM,Medium,Gray,Stripe,5
+6.3,6.3DHNWAM,Large,Gray,Stripe,1
+6.3,6.3DHNWAM,Small,Black,Stripe,11
+6.3,6.3DHNWAM,Medium,Black,Stripe,4
+6.3,6.3LUNEAM,Small,Gray,Stripe,18
+6.3,6.3LUNEAM,Medium,Gray,Stripe,2
+6.3,6.3LUNEAM,Large,Gray,Stripe,1
+6.3,6.3LUNEAM,Small,Black,Stripe,1
+6.3,6.3LUNEAM,Small,Black,No stripe,2
+6.3,6.3LUNEAM,Medium,Black,Stripe,2
+6.3,6.3GLNAM,Small,Gray,Stripe,5
+6.3,6.3GLNAM,Small,Gray,No stripe,2
+6.3,6.3GLNAM,Medium,Gray,Stripe,1
+6.3,6.3GLNAM,Large,Gray,Stripe,6
+6.4,6.4GLNAM,Small,Gray,Stripe,4
+6.4,6.4GLNAM,Small,Gray,No stripe,2
+6.4,6.4GLNAM,Medium,Gray,Stripe,1
+6.4,6.4GLNAM,Large,Gray,Stripe,6
+6.4,6.4DHNWAM,Small,Gray,Stripe,42
+6.4,6.4DHNWAM,Medium,Gray,Stripe,9
+6.4,6.4DHNWAM,Large,Gray,Stripe,1
+6.4,6.4DHNWAM,Small,Black,Stripe,10
+6.4,6.4GFNAM,Small,Gray,Stripe,1
+6.4,6.4GFNAM,Large,Gray,Stripe,3
+6.4,6.4LUSWAM,Small,Gray,Stripe,5
+6.4,6.4LUSWAM,Small,Gray,No stripe,1
+6.4,6.4LUSWAM,Medium,Gray,Stripe,6
+6.4,6.4LUSWAM,Large,Gray,Stripe,1
+6.4,6.4LUNWAM,Small,Gray,Stripe,11
+6.4,6.4LUNWAM,Medium,Gray,Stripe,9
+6.4,6.4LUNWAM,Large,Gray,Stripe,4
+6.4,6.4LUNWAM,Small,Black,Stripe,2
+6.4,6.4LUNWAM,Small,Black,No stripe,2
+6.4,6.4SBNAM,Small,Gray,Stripe,2
+6.4,6.4SBNAM,Medium,Gray,Stripe,1
+6.4,6.4SBNAM,Small,Black,No stripe,2
+6.4,6.4LUEAM,Small,Gray,Stripe,5
+6.4,6.4LUEAM,Medium,Gray,Stripe,3
+6.4,6.4LUSEAM,Small,Gray,Stripe,9
+6.4,6.4LUSEAM,Medium,Gray,Stripe,2
+6.4,6.4LUSEAM,Large,Gray,Stripe,1
+6.4,6.4LUSEAM,Small,Black,Stripe,1
+6.4,6.4LUSEAM,Small,Black,No stripe,1
+6.4,6.4SBWAM,Small,Gray,Stripe,13
+6.4,6.4SBWAM,Medium,Gray,Stripe,6
+6.4,6.4SBWAM,Small,Black,Stripe,3
+6.4,6.4SBWAM,Small,Black,No stripe,1
+6.4,6.4LUNEAM,Small,Gray,Stripe,4
+6.4,6.4LUNEAM,Small,Gray,No stripe,1
+6.4,6.4LUNEAM,Medium,Gray,Stripe,32
+6.4,6.4LUNEAM,Large,Gray,Stripe,3
+6.4,6.4TBNAM,Small,Gray,Stripe,1
+6.4,6.4TBNAM,Medium,Gray,Stripe,3
+6.5,6.5DHNWAM,Small,Gray,Stripe,14
+6.5,6.5DHNWAM,Medium,Gray,Stripe,44
+6.5,6.5DHNWAM,Small,Green,No stripe,2
+6.5,6.5DHNWAM,Small,Gray,No stripe,5
+6.5,6.5LUWAM,Small,Gray,Stripe,8
+6.5,6.5LUWAM,Small,Gray,No stripe,1
+6.5,6.5LUWAM,Medium,Gray,Stripe,22
+6.5,6.5LUWAM,Large,Gray,Stripe,12
+6.5,6.5LUWAM,Small,Black,No stripe,2
+6.5,6.5LUSWAM,Small,Gray,Stripe,5
+6.5,6.5LUSWAM,Small,Gray,No stripe,1
+6.5,6.5LUSWAM,Medium,Gray,Stripe,18
+6.5,6.5LUSWAM,Large,Gray,Stripe,4
+6.5,6.5SBNAM,Small,Gray,Stripe,6
+6.5,6.5SBNAM,Medium,Gray,Stripe,7
+6.5,6.5SBNAM,Large,Gray,Stripe,1
+6.5,6.5TBNAM,Small,Gray,Stripe,6
+6.5,6.5TBNAM,Small,Gray,No stripe,1
+6.5,6.5TBNAM,Medium,Gray,Stripe,9
+6.5,6.5TBNAM,Large,Gray,Stripe,3
+6.5,6.5LUNWPM,Small,Green,Stripe,1
+6.5,6.5LUNWPM,Small,Green,No stripe,1
+6.5,6.5LUNWPM,Small,Gray,Stripe,35
+6.5,6.5LUNWPM,Small,Gray,No stripe,2
+6.5,6.5LUNWPM,Medium,Gray,Stripe,36
+6.5,6.5LUNWPM,Large,Gray,Stripe,16
+6.5,6.5LUNWPM,Small,Black,No stripe,3
+6.5,6.5LUNEPM,Small,Green,Stripe,1
+6.5,6.5LUNEPM,Small,Gray,Stripe,16
+6.5,6.5LUNEPM,Small,Gray,No stripe,1
+6.5,6.5LUNEPM,Medium,Gray,Stripe,11
+6.5,6.5LUNEPM,Large,Gray,Stripe,4
+6.5,6.5TBNPM,Small,Gray,Stripe,3
+6.5,6.5TBNPM,Medium,Gray,Stripe,13
+6.5,6.5TBNPM,Medium,Gray,No stripe,1
+6.5,6.5TBNPM,Large,Gray,Stripe,7
+6.5,6.5GFNPM,Small,Gray,Stripe,3
+6.5,6.5GFNPM,Small,Green,Stripe,1
+6.5,6.5GFNPM,Small,Gray,No stripe,5
+6.5,6.5GFNPM,Medium,Gray,Stripe,1
+6.5,6.5LUSEAM,Small,Gray,Stripe,6
+6.5,6.5LUSEAM,Medium,Gray,Stripe,1
+6.5,6.5LUSEAM,Small,Black,Stripe,3
+6.5,6.5LUSEAM,Small,Black,No stripe,3
+6.5,6.5LUEAM,Small,Gray,Stripe,3
+6.5,6.5LUNWAM,Small,Green,Stripe,1
+6.5,6.5LUNWAM,Small,Gray,Stripe,69
+6.5,6.5LUNWAM,Medium,Gray,Stripe,17
+6.5,6.5LUNWAM,Large,Gray,Stripe,2
+6.5,6.5LUNWAM,Small,Black,Stripe,9
+6.5,6.5LUNWAM,Medium,Black,Stripe,1
+6.5,6.5LUNEAM,Small,Gray,Stripe,10
+6.5,6.5LUNEAM,Small,Gray,No stripe,1
+6.5,6.5LUNEAM,Medium,Gray,Stripe,7
+6.5,6.5LUNEAM,Large,Gray,Stripe,2
+6.5,6.5LUNEAM,Small,Black,Stripe,3
+6.5,6.5LUNEAM,Small,Black,No stripe,1
+6.5,6.5LUNEAM,Medium,Black,No stripe,1
+6.5,6.5GLNPM,Small,Gray,Stripe,2
+6.5,6.5GLNPM,Small,Gray,No stripe,1
+6.5,6.5GLNPM,Small,Black,Stripe,1
+6.5,6.5GLNPM,Small,Black,No stripe,1
+6.5,6.5GLNPM,Medium,Gray,Stripe,3
+6.5,6.5GLNPM,Large,Gray ,Stripe,4
+6.6,6.6GFNPM,Small,Gray,No stripe,4
+6.6,6.6GFNPM,Medium,Gray,Stripe,1
+6.6,6.6SBNAM,Medium,Gray,Stripe,5
+6.6,6.6LUNWAM,Small,Gray,Stripe,1
+6.6,6.6LUNWAM,Small,Gray,No stripe,1
+6.6,6.6LUNWAM,Medium,Gray,Stripe,8
+6.6,6.6LUNWAM,Large,Gray,Stripe,5
+6.6,6.6LUNWAM,Small,Black,No stripe,1
+6.6,6.6GLNPM,Small,Gray,No stripe,1
+6.6,6.6GLNPM,Medium,Gray,Stripe,1
+6.6,6.6GLNPM,Large,Gray,Stripe,1
+6.6,6.6TBNPM,Small,Gray,No stripe,1
+6.6,6.6TBNPM,Medium,Gray,Stripe,1
+6.6,6.6TBNPM,Large,Gray,Stripe,1
+6.6,6.6TBNPM,Small,Black,No stripe,1
+6.6,6.6GFNAM,Small,Gray,Stripe,1
+6.6,6.6GFNAM,Small,Gray,No stripe,1
+6.6,6.6GFNAM,Large,Gray,Stripe,2
+6.6,6.6DHNWAM,Small,Gray,Stripe,1
+6.6,6.6DHNWAM,Medium,Gray,Stripe,1
+6.6,6.6DHNWAM,Medium,Black,Stripe,2
+6.6,6.6GLNAM,Small,Gray,Stripe,10
+6.6,6.6GLNAM,Small,Gray,No stripe,1
+6.6,6.6GLNAM,Medium,Gray,Stripe,4
+6.6,6.6GLNAM,Large,Gray,Stripe,4
+6.6,6.6GLNAM,Small,Black,No stripe,1
+6.7,6.7GFNAM,Small,Gray,Stripe,2
+6.7,6.7TBNAM,Small,Gray,Stripe,1
+6.7,6.7TBNAM,Medium,Gray,Stripe,1
+6.7,6.7GLNAM,Small,Gray,Stripe,1
+6.7,6.7GLNAM,Small,Gray,No stripe,2
+6.7,6.7LUNWAM,Large,Gray,Stripe,1
+6.7,6.7LUSEAM,Large,Gray,Stripe,1
+6.7,6.7SBNAM,Large,Gray,Stripe,1
+6.6,6.6LUWAM,Small,Gray,Stripe,3
+6.6,6.6LUWAM,Medium,Gray,Stripe,4
+6.6,6.6LUWAM,Large,Gray,Stripe,8
+6.6,6.6LUWAM,Small,Black,Stripe,1
+6.6,6.6LUWAM,Medium,Black,Stripe,3
+6.6,6.6LUSWAM,Small,Gray,Stripe,1
+6.6,6.6LUSWAM,Medium,Gray,Stripe,3
+6.6,6.6LUSWAM,Large,Gray,Stripe,1
+6.6,6.6LUSWAM,Small,Black,Stripe,1
+6.6,6.6LUNEAM,Small,Gray,Stripe,1
+6.6,6.6LUNEAM,Medium,Gray,Stripe,5
+6.6,6.6LUNEAM,Large,Gray,Stripe,2
+6.6,6.6LUNEAM,Small,Black,No stripe,3
+6.7,6.7LUSWAM,Large,Gray,Stripe,2
+6.7,6.7LUNEAM,Large,Gray,Stripe,3
+6.8,6.8GFNAM,Medium,Gray,Stripe,2
+6.8,6.8DHNWAM,Small,Gray,Stripe,1
+6.8,6.8DHNWAM,Medium,Gray,Stripe,6
+6.8,6.8DHNWAM,Medium,Black,Stripe,2
+6.8,6.8GLNAM,Medium,Gray,Stripe,8
+6.8,6.8SBNAM,Medium,Gray,Stripe,2
+6.8,6.8KFNAM,Medium,Gray,Stripe,1
+6.8,6.8TBNAM,Medium,Gray,Stripe,4
+6.8,6.8LUEAM,Medium,Gray,Stripe,2
+6.8,6.8LUEAM,Large,Gray,Stripe,1
+6.8,6.8LUSEAM,Small,Gray,Stripe,2
+6.8,6.8LUSEAM,Medium,Gray,Stripe,16
+6.8,6.8LUSWAM,Small,Gray,Stripe,3
+6.8,6.8LUSWAM,Medium,Gray,Stripe,26
+6.8,6.8LUSWAM,Small,Black,No stripe,2
+6.8,6.8LUSWAM,Medium,Black,No stripe,1
+6.8,6.8LUNWAM,Medium,Gray,Stripe,3
+6.8,6.8LUNEAM,Medium,Gray,Stripe,4
+6.11,6.11GFNAM,Small,Gray,Stripe,5
+6.11,6.11GFNAM,Medium,Gray,Stripe,7
+6.11,6.11GFNAM,Large,Gray,Stripe,5
+6.11,6.11LUSWAM,Medium,Gray,Stripe,7
+6.11,6.11LUSWAM,Large,Gray,Stripe,1
+6.11,6.11SBWAM,Small,Gray,Stripe,1
+6.11,6.11SBWAM,Medium,Gray,Stripe,20
+6.11,6.11TBNAM,Small,Gray,Stripe,1
+6.11,6.11TBNAM,Medium,Gray,Stripe,5
+6.1,6.10SBNPM,Small,Gray,Stripe,1
+6.1,6.10SBNPM,Medium,Gray,Stripe,9
+6.1,6.10LUNEPM,Small,Gray,Stripe,1
+6.1,6.10LUNEPM,Medium,Gray,Stripe,12
+6.1,6.10LUNEPM,Large,Gray,Stripe,2
+6.12,6.12SBWAM,Small,Gray,Stripe,2
+6.12,6.12SBWAM,Medium,Gray,Stripe,2
+6.12,6.12TBNPM,Medium,Gray,Stripe,1
+6.11,6.11LUWPM,Small,Gray,Stripe,2
+6.11,6.11LUWPM,Medium,Gray,Stripe,6
+6.11,6.11LUWPM,Large,Gray,Stripe,4
+6.11,6.11LUWPM,Medium,Black,Stripe,1
+6.11,6.11SBNPM,Small,Gray,Stripe,1
+6.11,6.11SBNPM,Medium,Gray,Stripe,7
+6.12,6.12DHNWAM,Small,Gray,Stripe,5
+6.12,6.12DHNWAM,Medium,Gray,Stripe,20
+6.12,6.12DHNWAM,Large,Gray,Stripe,2
+6.12,6.12TBNAM,Small,Gray,Stripe,1
+6.12,6.12TBNAM,Medium,Gray,Stripe,3
+6.12,6.12LUSEAM,Small,Gray,Stripe,1
+6.12,6.12LUSEAM,Medium,Gray,Stripe,12
+6.12,6.12LUNWAM,Small,Gray,Stripe,1
+6.12,6.12LUNWAM,Small,Gray,No Stripe,3
+6.12,6.12LUNWAM,Medium,Gray,Stripe,38
+6.12,6.12GFNPM,Small,Gray,Stripe,2
+6.12,6.12GFNPM,Small,Gray,No Stripe,4
+6.12,6.12GFNPM,Medium,Gray,Stripe,5
+6.12,6.12GFNPM,Large,Gray,Stripe,1
+6.12,6.12LUWAM,Small,Green,Stripe,1
+6.12,6.12LUWAM,Small,Gray,Stripe,4
+6.12,6.12LUWAM,Small,Gray,No Stripe,1
+6.12,6.12LUWAM,Medium,Gray,Stripe,17
+6.12,6.12LUWAM,Large,Gray,Stripe,4
+6.12,6.12TBNPM,Small,Gray,Stripe,3
+6.12,6.12TBNPM,Small,Gray,No Stripe,2
+6.12,6.12TBNPM,Medium,Gray,Stripe,9
+6.12,6.12TBNPM,Large,Gray,Stripe,3
+6.12,6.12GLNPM,Small,Gray,No Stripe,1
+6.12,6.12GLNPM,Medium,Gray,Stripe,9
+6.12,6.12GLNPM,Large,Gray,Stripe,3
+6.13,6.13GFNPM,Small,Gray,No Stripe,3
+6.13,6.13GFNPM,Medium,Gray,Stripe,5
+6.13,6.13GFNPM,Large,Gray,Stripe,2
+6.13,6.13GLNPM,Small,Gray,Stripe,1
+6.13,6.13GLNPM,Small,Gray,No Stripe,1
+6.13,6.13GLNPM,Medium,Gray,Stripe,2
+6.13,6.13GLNPM,Large,Gray,Stripe,3
+6.13,6.13TBNAM,Small,Gray,Stripe,3
+6.13,6.13TBNAM,Small,Gray,No Stripe,3
+6.13,6.13TBNAM,Medium,Gray,Stripe,9
+6.13,6.13SBNPM,Small,Gray,No Stripe,2
+6.13,6.13SBNPM,Small,Black,No Stripe,2
+6.13,6.13SBNPM,Medium,Gray,Stripe,7
+6.13,6.13SBNPM,Large,Gray,Stripe,3
+6.13,6.13LUSEAM,Medium,Gray,Stripe,11
+6.13,6.13LUNWAM,Small,Gray,Stripe,3
+6.13,6.13LUNWAM,Small,Gray,No Stripe,2
+6.13,6.13LUNWAM,Medium,Gray,Stripe,45
+6.13,6.13LUNWAM,Large,Gray,Stripe,2
+6.12,6.12LUEPM,Small,Gray,Stripe,3
+6.12,6.12LUEPM,Medium,Gray,Stripe,5
+6.14,6.14SBWAM,Small,Gray,Stripe,1
+6.14,6.14SBWAM,Small,Gray,No Stripe,1
+6.14,6.14GFNAM,Small,Gray,No Stripe,1
+6.14,6.14GFNAM,Large,Gray,Stripe,2
+6.14,6.14LUWAM,Medium,Gray,Stripe,4
+6.14,6.14TBNAM,Small,Gray,Stripe,3
+6.14,6.14TBNAM,Medium,Gray,Stripe,1
+6.14,6.14LUSEAM,Large,Gray,Stripe,1
+6.14,6.14DHNWAM,Small,Gray,Stripe,10
+6.14,6.14DHNWAM,Medium,Gray,Stripe,12
+6.14,6.14DHNWAM,Medium,Black,Stripe,5
+6.14,6.14DHNWAM,Large,Gray,Stripe,2
+6.14,6.14GLNAM,Large,Gray,Stripe,1
