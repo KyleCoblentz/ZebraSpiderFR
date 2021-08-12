@@ -1,0 +1,4 @@
+This folder contains the raw data and code that:
+1) Performs the detection/handling time analysis
+2) Estimates the average detection times for each feeding survey for each sex/stage
+3) Collates all of the data into single .csv files for females, males, and juveniles for the functional response analysis
