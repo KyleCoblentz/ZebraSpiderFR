@@ -28,7 +28,7 @@ model {
     y[i] ~ binomial(n_t[i], p[i]);
   }
   // Need priors on a and h
-  f ~ normal(5, 5);
+  f ~ normal(10, 15);
 }
 
 generated quantities {
