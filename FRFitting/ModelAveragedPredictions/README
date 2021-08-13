@@ -1,0 +1,18 @@
+This folder contains the code to perform the Bayesian model averaging to get predictions for the relationships
+between predator feeding rates and midge densities, temperature and space clearance rates, and interference 
+for each stage/sex. 
+
+The .R file 'ModelAveragingCode_FR' loads the .RData files 'xModelAvgData' where x is Female, Male, or Juvenile. 
+It then gets Bayesian model-averaged predictions for the relationships between feeding rates and midge densities
+for each sex/stage. 
+
+The .R file 'ModelAveraging_Temperature' loads the .RData files 'xModelAvgData' where x is Female, Male, or Juvenile.
+It then gets the Bayesian model-averaged predictions for the relationships between temperature and and space clearance
+rates for each of sexes/stages.
+
+The .R files 'Model_Averaging_Interference_x' where x is Female, Male or Juvenile use the respective 'xAvgData' .RData files
+to get the model-averaged predictions of the effects of interference from each sex/stage on the focal sex/stage. These .R files 
+produce the respective 'x_Int_Plot' .RData files. 
+
+The .R file 'Interference_CombinedPlot' loads the 'x_Int_Plot' .RData files where x is Female, Male, or Juvenile, and 
+produces the combined figure with predictions of the effects of interference on each sex/stage from each sex/stage.
