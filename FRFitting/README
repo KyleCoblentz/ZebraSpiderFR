@@ -1,2 +1,4 @@
-This folder contains three folders. These folders include the code and collated data used to fit the functional responses for females,
-males, and juveniles (folders titled 'Females', 'Males', and 'Juveniles'). 
+This folder contains four folders. Three folders include the code and collated data used to fit the functional responses for females,
+males, and juveniles (folders titled 'Females', 'Males', and 'Juveniles'). The fourth folder contains the code used to perform the 
+Bayesian model averaging to get predictions for the relationships between feeding rates and midge densities, temperature and space
+clearance rates, and interference for each stage/sex.
