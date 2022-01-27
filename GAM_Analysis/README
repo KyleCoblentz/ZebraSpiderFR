@@ -1,0 +1,7 @@
+This repository contains the code and data to perform the Generalized Additive Model analyses of 
+zebra jumping spider feeding rates in Coblentz et al. Quantifying predator functional responses
+under field conditions reveals interactive effects of temperature and interference with sex 
+and stage. 
+
+There are two folders: Females and Juveniles. Each contains the code and data for fitting GAMs to the 
+data  for females and juveniles respectively.
