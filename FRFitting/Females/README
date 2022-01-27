@@ -1,5 +1,0 @@
-This folder contains the collated data and code to fit the functional response models. 
-
-FemaleAnalysis_ModelSelection.R calls the .Stan files which define the Bayesian models and fits all of them. It 
-outputs FemaleModelAvgData.RData with the MCMC samples to be used to get model averaged predictions.
-
