@@ -37,6 +37,8 @@ full_fit <- gam(FeedingRate ~  s(NumberMidges) + s(FemaleDens) + s(JuvDens) +
 
 summary(full_fit)
 
+draw(full_fit, residuals = TRUE)
+
 AIC(full_fit)
 
 ### interference combined 
@@ -45,6 +47,8 @@ intcomb_fit <- gam(FeedingRate ~ s(NumberMidges) + s(TotalPredDens) + s(TempStar
                    weights = females$NumberPred/mean(females$NumberPred), data = females, method = 'REML')
 
 summary(intcomb_fit)
+
+draw(intcomb_fit, residuals = TRUE)
 
 AIC(full_fit, intcomb_fit)
 
@@ -55,6 +59,8 @@ noint_fit <- gam(FeedingRate ~ s(NumberMidges) + s(TempStart) + s(BuildingWall, 
 
 summary(noint_fit)
 
+draw(noint_fit, residuals = TRUE)
+
 AIC(full_fit, intcomb_fit, noint_fit)
 
 ### no temperature + interference separate
@@ -62,6 +68,10 @@ AIC(full_fit, intcomb_fit, noint_fit)
 notemp_fit <- gam(FeedingRate ~ s(NumberMidges) + s(FemaleDens) + s(JuvDens) + 
                   s(MaleDens) + s(BuildingWall, bs = 're'), 
                   weights = females$NumberPred/mean(females$NumberPred), data = females, method = 'REML')
+
+summary(notemp_fit)
+
+draw(notemp_fit, residuals = TRUE)
 
 AIC(full_fit, intcomb_fit, noint_fit, notemp_fit)
 
@@ -72,6 +82,8 @@ notemp_intcomb_fit <- gam(FeedingRate ~ s(NumberMidges) + s(TotalPredDens) + s(B
 
 summary(notemp_intcomb_fit)
 
+draw(notemp_intcomb_fit)
+
 AIC(full_fit, intcomb_fit, notemp_fit, notemp_intcomb_fit)
 
 ### no temperature + no interference
@@ -81,18 +93,22 @@ notemp_noint_fit <- gam(FeedingRate ~ s(NumberMidges) + s(BuildingWall, bs = 're
 
 summary(notemp_noint_fit)
 
+draw(notemp_noint_fit)
+
 AIC(full_fit, intcomb_fit, notemp_fit, notemp_intcomb_fit, notemp_noint_fit)
 
-### can we do a null model?
+### null model
 
 null <- gam(FeedingRate ~ 1 + s(BuildingWall, bs = 're'), 
             weights = females$NumberPred/mean(females$NumberPred), data = females, method = 'REML')
 
 summary(null)
 
+draw(null)
+
 AICnull <- AIC(null)
 
-### as one might expect for the female data
+### Compare AIC values in a table
 
 f_AicTable <- as.data.frame(AIC(full_fit, intcomb_fit, noint_fit, notemp_fit, notemp_intcomb_fit, notemp_noint_fit, null))
 
